@@ -1,6 +1,6 @@
 # hello.py
 
-def main():
+def hello():
     print("Hello Bill")
 
-main()    
+hello()
